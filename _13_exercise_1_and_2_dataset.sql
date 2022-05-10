@@ -1,4 +1,4 @@
-drop database school;
+drop database if exists school;
 create database school;
 use school;
 
